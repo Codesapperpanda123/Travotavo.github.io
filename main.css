@@ -1,8 +1,10 @@
 .overbar {
-  position: fixed;
-  text-align: center;
-  top: 0;
-  left: 0;
+  background-color: rgba(255, 255, 255, 0.9);
   overflow-y: auto;
-  z-index: 1000;
+  position: fixed;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 10000;
 }
