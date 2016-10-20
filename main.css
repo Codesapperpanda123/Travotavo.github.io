@@ -20,5 +20,6 @@ li {
 #title {
   color: #66aa8e;
   font-family: serif;
-  font-weight: bold;
+  font-weight: 400;
+  font-size: 18px;
 }
