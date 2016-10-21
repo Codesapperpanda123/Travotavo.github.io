@@ -7,10 +7,10 @@
   text-align: center;
   width: 100%;
   z-index: 10000;
+  display: inline-block;
 }
 li {
   color: #14213D;
-  display: inline-block;
   font-family: 'Abel', sans-serif;
   font-size: 16px;
   font-weight: 300;
