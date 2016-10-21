@@ -8,7 +8,7 @@
   width: 100%;
   z-index: 10000;
 }
-li.overbar {
+li {
   color: #14213D;
   display: inline-block;
   font-family: 'Abel', sans-serif;
