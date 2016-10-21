@@ -7,7 +7,6 @@
   text-align: center;
   width: 100%;
   z-index: 10000;
-  display: inline-block;
 }
 li {
   color: #14213D;
@@ -16,6 +15,7 @@ li {
   font-weight: 300;
   margin: 16px 20px;
   text-transform: uppercase;
+  display: inline-block;
 }
 #title {
   color: #66aa8e;
