@@ -1,5 +1,7 @@
 $(document).ready(function() {
-    $('.close').click(function() {
-        $('.popup').fadeOut('slow');
+    var $action = $('.close');
+    var $target = $('.popup');
+    $action.click(function() {
+        $target.fadeOut('slow');
     });
 });
