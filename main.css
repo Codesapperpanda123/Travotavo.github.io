@@ -2,3 +2,7 @@
   text-align: center;
   position: relative;
 }
+.close {
+  text-align: right;
+  position: relative;
+}
