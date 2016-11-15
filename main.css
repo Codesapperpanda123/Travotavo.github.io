@@ -1,10 +1,10 @@
 .popup {
   text-align: center;
-  position: relative;
+  float: center;
   max-height: 250px;
   max-width: 250px;
 }
 .close {
-  text-align: right;
+  float: right;
   position: relative;
 }
